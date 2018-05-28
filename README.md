@@ -3,6 +3,7 @@ Repository on cosmosdb explaining how to stream tweets from twitter using hashta
 **Pre-Requisites Needed:**
 
 I have the following in my local environment , hope you guys have already have😊, if not start setting up.
+
 ·                  Windows 10 OS
 ·                  Python 2.7
 ·                  Visual Studio Code or PyCharm (Any editor)
